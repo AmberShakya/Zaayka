@@ -24,6 +24,5 @@ Today our lifestyle has changed and so our food. We want to eat food which is ta
 ## Contributors:
 Team Name :- brute_force
 
-* [Nupur Goyal](https://github.com/nupur102002)
-* [Harsh Kumar Sharma](https://github.com/Harsh311003)
-* [Vijay Kumar](https://github.com/vijaybadgurjar)
+* [Amber Kumar Shakya 20214038]
+* [Aniket Kumar 20215144]
